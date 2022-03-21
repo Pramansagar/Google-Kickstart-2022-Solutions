@@ -1,8 +1,4 @@
 # Google Kick Start 2022 Round A - Problem A. Speed Typing
-# https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7021
-#
-# Time:  O(|P|)
-# Space: O(1)
 #
 
 def speed_typing():
