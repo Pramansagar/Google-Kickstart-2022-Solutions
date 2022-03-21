@@ -1,8 +1,4 @@
 # Google Kick Start 2022 Round A - Problem B. Challenge Nine
-# https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7997
-#
-# Time:  O(logN)
-# Space: O(logN)
 #
 
 def challenge_nine():
