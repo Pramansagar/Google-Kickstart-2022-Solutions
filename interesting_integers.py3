@@ -1,11 +1,4 @@
 # Google Kick Start 2022 Round A - Problem D. Interesting Integers
-# https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e73ea
-#
-# Time:  precompute: O(log(MAX_B) * (9log(MAX_B))^3)
-#        runtime:    O((9logB)^2)
-# Space: O(log(MAX_B) * (9log(MAX_B))^3)
-#
-
 from functools import lru_cache
 
 @lru_cache(None)  # lazily precompute
