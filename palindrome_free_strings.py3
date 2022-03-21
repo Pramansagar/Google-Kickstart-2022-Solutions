@@ -1,8 +1,4 @@
 # Google Kick Start 2022 Round A - Problem C. Palindrome Free Strings
-# https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e762e
-#
-# Time:  O(N)
-# Space: O(N)
 #
 
 def check(s):
